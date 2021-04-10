@@ -4,6 +4,7 @@
   "description": "@fullcalendar/common for Nextjs",
   "main": "main.cjs.js",
   "module": "main.js",
+  "types": "main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
